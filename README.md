@@ -1,6 +1,6 @@
 ### Hello everyone ✌
 
-Currently still learning @ CPNV
+I'm a developper .
 
 Here's my portofolio [Havachi.github.io](https://havachi.github.io/)
 
